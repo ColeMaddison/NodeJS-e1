@@ -1,7 +1,6 @@
 {
   "name": "node_1",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,5 +11,14 @@
   "devDependencies": {
     "chalk": "^2.3.2",
     "minimist": "^1.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeMaddison/NodeJS-e1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ColeMaddison/NodeJS-e1/issues"
+  },
+  "homepage": "https://github.com/ColeMaddison/NodeJS-e1#readme",
+  "description": ""
 }
