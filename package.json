@@ -1,0 +1,16 @@
+{
+  "name": "node_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "script1": "node app.js user='Dima' NODE_ENV='dev'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.3.2",
+    "minimist": "^1.2.0"
+  }
+}
